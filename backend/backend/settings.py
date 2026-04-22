@@ -11,7 +11,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['localhost', '123.123.123.123']
 
 
-# Application definition
+# Application definitioW
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
